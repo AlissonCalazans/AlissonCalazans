@@ -1,66 +1,6 @@
 ### Olá!! Sou Alisson Calazans!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonCalazans&show_icons=true&theme=gruvbox&bg_color=000)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-
-#### Stats Card Exclusive Options
-
--   `hide` - Hides the [specified items](#hiding-individual-stats) from stats _(Comma-separated values)_. Default: `[] (blank array)`.
--   `hide_title` - _(boolean)_. Default: `false`.
--   `card_width` - Set the card's width manually _(number)_. Default: `500px  (approx.)`.
--   `hide_rank` - _(boolean)_ hides the rank and automatically resizes the card width. Default: `false`.
--   `show_icons` - _(boolean)_. Default: `false`.
--   `include_all_commits` - Count total commits instead of just the current year commits _(boolean)_. Default: `false`.
--   `count_private` - Count private commits _(boolean)_. Default: `false`.
--   `line_height` - Sets the line height between text _(number)_. Default: `25`.
--   `exclude_repo` - Exclude stars from specified repositories _(Comma-separated values)_. Default: `[] (blank array)`.
--   `custom_title` - Sets a custom title for the card. Default:  `<username> GitHub Stats`.
--   `text_bold` - Use bold text _(boolean)_. Default: `true`.
--   `disable_animations` - Disables all animations in the card _(boolean)_. Default: `false`.
--   `ring_color` - Color of the rank circle _(hex color)_. Defaults to the theme ring color if it exists and otherwise the title color.
-
-> **Note**
-> When hide_rank=`true`, the minimum card width is 270 px + the title length and padding.
-
-#### Repo Card Exclusive Options
-
--   `show_owner` - Show the repo's owner name _(boolean)_. Default: `false`.
-
-#### Language Card Exclusive Options
-
--   `hide` - Hide the languages specified from the card _(Comma-separated values)_. Default: `[] (blank array)`.
--   `hide_title` - _(boolean)_. Default: `false`.
--   `layout` - Switch between two available layouts `default` & `compact`. Default: `default`.
--   `card_width` - Set the card's width manually _(number)_. Default `300`.
--   `langs_count` - Show more languages on the card, between 1-10 _(number)_. Default `5`.
--   `exclude_repo` - Exclude specified repositories _(Comma-separated values)_. Default: `[] (blank array)`.
--   `custom_title` - Sets a custom title for the card _(string)_. Default `Most Used Languages`.
--   `disable_animations` - Disables all animations in the card _(boolean)_. Default: `false`.
-
-> **Warning**
-> Language names should be URI-escaped, as specified in [Percent Encoding](https://en.wikipedia.org/wiki/Percent-encoding)
-> (i.e: `c++` should become `c%2B%2B`, `jupyter notebook` should become `jupyter%20notebook`, etc.) You can use
-> [urlencoder.org](https://www.urlencoder.org/) to help you do this automatically.
-
-#### Wakatime Card Exclusive Options
-
--   `hide` - Hide the languages specified from the card _(Comma-separated values)_. Default: `[] (blank array)`.
--   `hide_title` - _(boolean)_. Default `false`.
--   `line_height` - Sets the line height between text _(number)_. Default `25`.
--   `hide_progress` - Hides the progress bar and percentage _(boolean)_. Default `false`.
--   `custom_title` - Sets a custom title for the card _(string)_. Default `Wakatime Stats`.
--   `layout` - Switch between two available layouts `default` & `compact`.  Default `default`.
--   `langs_count` - Limit the number of languages on the card, defaults to all reported languages _(number)_.
--   `api_domain` - Set a custom API domain for the card, e.g. to use services like [Hakatime](https://github.com/mujx/hakatime) or [Wakapi](https://github.com/muety/wakapi) _(string)_. Default `Waka API`.
--   `range` – Request a range different from your WakaTime default, e.g. `last_7_days`. See [WakaTime API docs](https://wakatime.com/developers#stats) for a list of available options. _(YYYY-MM, last_7_days, last_30_days, last_6_months, last_year, or all_time)_. Default `all_time`.
-
-* * *
-
-# GitHub Extra Pins
-
-GitHub extra pins allow you to pin more than six repositories in your profile using a GitHub readme profile.
-
-Yay! You are no longer limited to 6 pinned repositories.
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Usage
 
