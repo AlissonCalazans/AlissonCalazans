@@ -1,5 +1,5 @@
 ### Olá!! Sou Alisson Calazans!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonCalazans&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonCalazans&show_icons=true&theme=gruvbox&bg_color=000)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -70,7 +70,7 @@ You can customize the appearance of your `Stats Card` or `Repo Card` however you
 
 You can provide multiple comma-separated values in the bg_color option to render a gradient with the following format:
 
-    &bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
+    &bg_color=dark
 
 #### Stats Card Exclusive Options
 
