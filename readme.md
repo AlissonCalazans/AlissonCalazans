@@ -1,53 +1,8 @@
 ### Olá!! Sou Alisson Calazans!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonCalazans)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonCalazans&show_icons=true&theme=gruvbox)
 ---------------------------------------------------------------------------------------------------------------------------------------------
-> **Note**
-> Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories. The implementation can be investigated at [src/calculateRank.js](./src/calculateRank.js).
-
-### Hiding individual stats
-
-You can pass a query parameter `&hide=` to hide any specific stats with comma-separated values.
-
-> Options: `&hide=stars,commits,prs,issues,contribs`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonCalazns=contribs,prs)
-```
-
-### Adding private contributions count to total commits count
-
-You can add the count of all your private contributions to the total commits count by using the query parameter `&count_private=true`.
-
-> **Note**
-> If you are deploying this project yourself, the private contributions will be counted by default. If you are using the public Vercel instance, you need to choose to [share your private contributions](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile).
-
-> Options: `&count_private=true`
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-```
-
-### Showing icons
-
-To enable icons, you can pass `show_icons=true` in the query param, like so:
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-```
-
-### Themes
-
-With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
-
-Use `&theme=THEME_NAME` parameter like so :
-
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-```
 
 #### All inbuilt themes
-
 GitHub readme stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
 
 <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
