@@ -2,7 +2,7 @@
 
 * 👔 Em busca de uma oportunidade de emprego na area da tecnologia.
 * ✏ Estudante de Desenvolvimento de Sistemas.
-*⌛ Futuro Milionário
+* ⌛ Futuro Milionário.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonCalazans&show_icons=true&theme=gruvbox&bg_color=000)
