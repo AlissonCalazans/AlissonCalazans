@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,html,c,mysql,postgres,bootstrap,css,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,postgres" />
   </a>
 </p>
 
