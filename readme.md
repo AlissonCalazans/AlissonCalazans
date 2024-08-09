@@ -1,7 +1,10 @@
 
  #### <H1> Olá!! Sou Alisson Calazans!<H1>
  <h3> Perfil <h3>
- - Sou um desenvolvedor júnior com habilidades em diversas linguagens de programação, incluindo PHP, C# e Dart/Flutter. Com experiência em desenvolvimento de projetos acadêmicos e pessoais, desenvolvi habilidades em análise de requisitos, desenvolvimento de software e testes unitários. Meu objetivo é continuar aprimorando minhas habilidades em desenvolvimento de software, trabalhando em projetos desafiadores e aprendendo novas tecnologias.
+ Desenvolvedor Web, com experiencia em C#, SQL, HTML, CSS.
+ Tenho certificados de cursos livres na area de programação e estou cursando ADS (Análise e Desenvolvimento de Sistemas).
+ Pretendo ainda me especializar na area de banco de dados e aprender outra lingua como ingles e espanhol.
+  Gosto muito da area da programação, pois são varios dias de desafios e a sensação de se livrar de um problema com conhecimento que fou adquirido é muito gratificante.
  <br/>
  <br/>
   
